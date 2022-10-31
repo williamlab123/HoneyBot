@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\programas\HoneyBot\bin\Debug\net6.0\HoneyBot.exe
+C:\Users\willi\Desktop\programas\HoneyBot\bin\Debug\net6.0\HoneyBot.deps.json
+C:\Users\willi\Desktop\programas\HoneyBot\bin\Debug\net6.0\HoneyBot.runtimeconfig.json
+C:\Users\willi\Desktop\programas\HoneyBot\bin\Debug\net6.0\HoneyBot.dll
+C:\Users\willi\Desktop\programas\HoneyBot\bin\Debug\net6.0\HoneyBot.pdb
+C:\Users\willi\Desktop\programas\HoneyBot\obj\Debug\net6.0\HoneyBot.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\programas\HoneyBot\obj\Debug\net6.0\HoneyBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\programas\HoneyBot\obj\Debug\net6.0\HoneyBot.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\programas\HoneyBot\obj\Debug\net6.0\HoneyBot.AssemblyInfo.cs
+C:\Users\willi\Desktop\programas\HoneyBot\obj\Debug\net6.0\HoneyBot.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\programas\HoneyBot\obj\Debug\net6.0\HoneyBot.dll
+C:\Users\willi\Desktop\programas\HoneyBot\obj\Debug\net6.0\ref\HoneyBot.dll
+C:\Users\willi\Desktop\programas\HoneyBot\obj\Debug\net6.0\HoneyBot.pdb
+C:\Users\willi\Desktop\programas\HoneyBot\obj\Debug\net6.0\HoneyBot.genruntimeconfig.cache
+C:\Users\willi\Desktop\programas\HoneyBot\obj\Debug\net6.0\refint\HoneyBot.dll
